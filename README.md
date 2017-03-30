@@ -12,7 +12,8 @@ Download and extract the zip folder here [GestureUI](https://github.com/seanJose
 Tank RP5 Chassis (SKU:ROB0007) -  Website [here](https://www.dfrobot.com/wiki/index.php/Tank_RP5_Chassis_(SKU:ROB0007))       
 Arduino UNO - Website [here](https://www.arduino.cc/en/Main/ArduinoBoardUno)       
 Adafruit Motor Shield V2.3 - Website [here](https://www.adafruit.com/products/1438)       
-Myo Armband - Website [here](https://www.myo.com/)       
+Myo Armband - Website [here](https://www.myo.com/)    
+MyoDuino Project - Website [here](https://market.myo.com/app/54bd7403e4b00db53ad527a2/myoduino-)      
 Arduino IDE - Website [here](https://www.arduino.cc/en/main/software)        
 
 
