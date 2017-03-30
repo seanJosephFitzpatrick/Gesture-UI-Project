@@ -54,8 +54,8 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-[Sean Fitzpatrick](https://github.com/seanJosephFitzpatrick)            
-[Sarabjeet Kumar](https://github.com/sarbjeetkumar)
+[Sean Fitzpatrick](https://github.com/seanJosephFitzpatrick/Gesture-UI-Project)            
+[Sarabjeet Kumar](https://github.com/sarbjeetkumar/Gesture-UI-Project)
 
 ## License
 
