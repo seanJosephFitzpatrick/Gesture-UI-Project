@@ -5,13 +5,15 @@ For our gesture based project we are going to use the Myo Armband to control a R
 
 ## Getting Started
 
-Download and extract the zip folder here [GestureUI](https://github.com/seanJosephFitzpatrick/Gesture-UI-Project/archive/master.zip)
+Download and extract the zip folder here [GestureUI](https://github.com/seanJosephFitzpatrick/Gesture-UI-Project/archive/master.zip)        
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-Tank RP5 Chassis (SKU:ROB0007) Link [here](https://www.dfrobot.com/wiki/index.php/Tank_RP5_Chassis_(SKU:ROB0007))
+Tank RP5 Chassis (SKU:ROB0007) -  Link [here](https://www.dfrobot.com/wiki/index.php/Tank_RP5_Chassis_(SKU:ROB0007))       
+Arduino UNO - Link [here](https://www.arduino.cc/en/Main/ArduinoBoardUno)       
+Adafruit Motor Shield V2.3 - Link [here](https://www.adafruit.com/products/1438)       
+Myo Armband - Link [here](https://www.myo.com/)       
+Arduino IDE - Link [here](https://www.arduino.cc/en/main/software)        
 
 
 ### Installing
