@@ -9,11 +9,11 @@ Download and extract the zip folder here [GestureUI](https://github.com/seanJose
 
 ### Prerequisites
 
-Tank RP5 Chassis (SKU:ROB0007) -  Link [here](https://www.dfrobot.com/wiki/index.php/Tank_RP5_Chassis_(SKU:ROB0007))       
-Arduino UNO - Link [here](https://www.arduino.cc/en/Main/ArduinoBoardUno)       
-Adafruit Motor Shield V2.3 - Link [here](https://www.adafruit.com/products/1438)       
-Myo Armband - Link [here](https://www.myo.com/)       
-Arduino IDE - Link [here](https://www.arduino.cc/en/main/software)        
+Tank RP5 Chassis (SKU:ROB0007) -  Website [here](https://www.dfrobot.com/wiki/index.php/Tank_RP5_Chassis_(SKU:ROB0007))       
+Arduino UNO - Website [here](https://www.arduino.cc/en/Main/ArduinoBoardUno)       
+Adafruit Motor Shield V2.3 - Website [here](https://www.adafruit.com/products/1438)       
+Myo Armband - Website [here](https://www.myo.com/)       
+Arduino IDE - Website [here](https://www.arduino.cc/en/main/software)        
 
 
 ### Installing
