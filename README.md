@@ -11,7 +11,7 @@ Download and extract the zip folder here [GestureUI](https://github.com/seanJose
 
 What things you need to install the software and how to install them
 
-Tank RP5 [Chassis](https://www.dfrobot.com/wiki/index.php/Tank_RP5_Chassis_SKU:ROB0007)
+Tank RP5 [Chassis](https://www.dfrobot.com/wiki/index.php/Tank_RP5_Chassis_(SKU:ROB0007))
 
 
 ### Installing
