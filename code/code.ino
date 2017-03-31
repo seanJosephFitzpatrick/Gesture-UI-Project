@@ -45,12 +45,12 @@ void getMyoGestures(){
     myo.updatePose();
     switch ( myo.getCurrentPose() ) {
       case rest:
-         
+         //when the arm is relaxed RELEASE 
           M1->run(RELEASE);
           M2->run(RELEASE);
           break;
       case fist:
-          
+          //When the arm makes a fist set motor speed and drive motors FORWARD
           M1->setSpeed(150);
           M2->setSpeed(150);
           M1->run(FORWARD);
