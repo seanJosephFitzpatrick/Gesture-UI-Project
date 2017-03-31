@@ -9,7 +9,7 @@ int outputPin=5;
 
 MyoController myo = MyoController();
 
-
+//Create the motor shield object 
 Adafruit_MotorShield AFMS = Adafruit_MotorShield();  
 
 //Select port M1 motor shield board  
