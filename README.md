@@ -5,7 +5,7 @@ For our gesture based project we are going to use the Myo Armband to control a R
 
 ## Getting Started
 
-Download and extract the zip folder here [GestureUI](https://github.com/seanJosephFitzpatrick/Gesture-UI-Project/archive/master.zip)        
+Download and extract the zip folder here [GestureUI](https://github.com/sarbjeetkumar/Gesture-UI-Project/archive/master.zip)        
 
 ### Prerequisites
 
