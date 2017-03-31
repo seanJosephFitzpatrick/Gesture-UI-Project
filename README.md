@@ -20,18 +20,18 @@ Arduino IDE - Website [here](https://www.arduino.cc/en/main/software)
 ### Installing
 
 **Step 1**. For software/hardware see Prerequisites. For versions of Prerequisites used in this project see **Built With** section.       
-Step 2. Import the myoDuino Project library into your Arduino IDE - Follow steps as laid out in MyoDuino Project pdf.         
-Step 3. Attach Adafruit Motor Shield board to Arduino UNO board - Follow steps as laid out in [video tutorial](https://www.youtube.com/watch?v=vN_gcyWKCxY)                 
-Step 4. The Tank RP5 Chassis comes ready to go with two DC motors built into frame. Video [link](https://www.youtube.com/watch?v=vN_gcyWKCxY) shows how to connect the motors to the Adafruit Motor Shild DC motor connections M1, M2, M3, M4. Connect each motor to one of these connections.        
-Step 5. Connect the power cable to the Adafruit Motor Shield board. The connections says power on the board with a plus and minus either side.      
-Step 6. Run the Arduino IDE and save the file in your project folder along with the myo32.dll and the MyoDuino.exe. You will find the myo32.dll and the MyoDuino.exe in the bin folder of the MyoDuino Project.         
-Step 7. Copy and paste code from code.ino file in code [folder](https://github.com/seanJosephFitzpatrick/Gesture-UI-Project/tree/master/code).                  
+**Step 2**. Import the myoDuino Project library into your Arduino IDE - Follow steps as laid out in MyoDuino Project pdf.         
+**Step 3**. Attach Adafruit Motor Shield board to Arduino UNO board - Follow steps as laid out in [video tutorial](https://www.youtube.com/watch?v=vN_gcyWKCxY)                 
+**Step 4**. The Tank RP5 Chassis comes ready to go with two DC motors built into frame. Video [link](https://www.youtube.com/watch?v=vN_gcyWKCxY) shows how to connect the motors to the Adafruit Motor Shild DC motor connections M1, M2, M3, M4. Connect each motor to one of these connections.        
+**Step 5**. Connect the power cable to the Adafruit Motor Shield board. The connections says power on the board with a plus and minus either side.      
+**Step 6**. Run the Arduino IDE and save the file in your project folder along with the myo32.dll and the MyoDuino.exe. You will find the myo32.dll and the MyoDuino.exe in the bin folder of the MyoDuino Project.         
+**Step 7**. Copy and paste code from code.ino file in code [folder](https://github.com/seanJosephFitzpatrick/Gesture-UI-Project/tree/master/code).                  
 
 ## Deployment
 
-Step 1. Set up Myo Armaband - See [Myo Suport](https://support.getmyo.com/hc/en-us) for setting up the Myo on your device.
-Step 2. Connect the Tank RP5 Chassis with an A male to B male cable. Connect the A male side of the cable to your laptop device and the B male side of the cable to the Arduino UNO Barrel Jack on the Tank RP5 Chassis.         
-Step 3. Run the MyoDuino.exe and select the correct port and press connect - See the MyoDuino pdf.         
+**Step 1**. Set up Myo Armaband - See [Myo Suport](https://support.getmyo.com/hc/en-us) for setting up the Myo on your device.
+**Step 2**. Connect the Tank RP5 Chassis with an A male to B male cable. Connect the A male side of the cable to your laptop device and the B male side of the cable to the Arduino UNO Barrel Jack on the Tank RP5 Chassis.         
+**Step 3**. Run the MyoDuino.exe and select the correct port and press connect - See the MyoDuino pdf.         
 
 
 ## Built With
