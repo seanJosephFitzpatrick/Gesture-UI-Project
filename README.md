@@ -19,7 +19,7 @@ Arduino IDE - Website [here](https://www.arduino.cc/en/main/software)
 
 ### Installing
 
-Step 1. For software/hardware see Prerequisites. For versions of Prerequisites used in this project see **Built With** sec
+**Step 1**. For software/hardware see Prerequisites. For versions of Prerequisites used in this project see **Built With** section.       
 Step 2. Import the myoDuino Project library into your Arduino IDE - Follow steps as laid out in MyoDuino Project pdf.         
 Step 3. Attach Adafruit Motor Shield board to Arduino UNO board - Follow steps as laid out in [video tutorial](https://www.youtube.com/watch?v=vN_gcyWKCxY)                 
 Step 4. The Tank RP5 Chassis comes ready to go with two DC motors built into frame. Video [link](https://www.youtube.com/watch?v=vN_gcyWKCxY) shows how to connect the motors to the Adafruit Motor Shild DC motor connections M1, M2, M3, M4. Connect each motor to one of these connections.        
