@@ -7,6 +7,7 @@
 int inputPin=4; 
 int outputPin=5; 
 
+//Create the myo object 
 MyoController myo = MyoController();
 
 //Create the motor shield object 
