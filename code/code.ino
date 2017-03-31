@@ -29,12 +29,14 @@ void setup() {
     myo.initMyo();
     
     
-    myo.initMyo();
+    //myo.initMyo();
 }
 
 void loop() {
- 
+
+    //call getMyoGesture Function
    getMyoGestures();
+   //set deley after method call 
    delay(75); 
   
 }
