@@ -1,7 +1,9 @@
 # Gesture UI
 
 As part of the Gesture based module we are required to complete a gesture based project. Using gestures to control a device such as a Robot, game or Lego Mindstorms. There are numerous devices that are gesture based that can be used for this project. The Myo Armband is a device that sits over your forearm and reads the electrical activity produced by skeletal muscles using EMG (electromyographic) sensors. The Kinect is a device with an RGB camera with depth sensor and infrared projector with a monochrome CMOS sensor which sees the environment not as a flat image, but as dots arranged in a 3D environment. Cortana is an intelligent personal assistant that responds to voice commands. The Leap Motion consists of two cameras and three infrared LEDs. This tracks infrared light to capture the position of the hand.         
-For our gesture based project we are going to use the Myo Armband to control a Robot Tank RP5. This is an Arduino based project that uses the MyoDuino library to communicate between the Myo Armband and the Arduino UNO, the Arduino UNO communicates with the Adafruit Motorshield to control the motors of the robot tank. 
+For our gesture based project we are going to use the Myo Armband to control a Robot Tank RP5. This is an Arduino based project that uses the MyoDuino library to communicate between the Myo Armband and the Arduino UNO, the Arduino UNO communicates with the Adafruit Motorshield to control the motors of the robot tank.        
+
+![alt tag](https://github.com/seanJosephFitzpatrick/Gesture-UI-Project/blob/master/MYO.png)
 
 ## Getting Started
 
