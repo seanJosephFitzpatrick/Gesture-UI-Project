@@ -12,8 +12,10 @@ MyoController myo = MyoController();
 
 Adafruit_MotorShield AFMS = Adafruit_MotorShield();  
 
-
+//Select port M1 motor shield board  
 Adafruit_DCMotor *M1 = AFMS.getMotor(1);    
+
+//Select port M2 motor shield board 
 Adafruit_DCMotor *M2 = AFMS.getMotor(2);
 
 void setup() {
