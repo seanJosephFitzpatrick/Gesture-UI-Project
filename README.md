@@ -24,7 +24,8 @@ A step by step series of examples that tell you have to get a development env ru
 Step 1. For software/hardware see Prerequisites. For versions of Prerequisites used in this project see **Built With** sec
 Step 2. Import the myoDuino Project library into your Arduino IDE - Follow steps as laid out in MyoDuino Project pdf.         
 Step 3. Attach Adafruit Motor Shield board to Arduino UNO board - Follow steps as laid out in [video tutorial](https://www.youtube.com/watch?v=vN_gcyWKCxY)                 
-Step 4. The Tank RP5 Chassis comes ready to go with two DC motors built into frame. Video link above shows how to connect the motors to the Adafruit Motor Shild DC motor connections M1, M2, M3, M4. Connect each motor to one of these connections.         
+Step 4. The Tank RP5 Chassis comes ready to go with two DC motors built into frame. Video [link](https://www.youtube.com/watch?v=vN_gcyWKCxY) shows how to connect the motors to the Adafruit Motor Shild DC motor connections M1, M2, M3, M4. Connect each motor to one of these connections.        
+Step 5. Connect the power cable to the Adafruit Motor Shield board. The connections says power on the board with a plus and minus either side.
 
 End with an example of getting some data out of the system or using it for a little demo
 
