@@ -29,7 +29,7 @@ Arduino IDE - Website [here](https://www.arduino.cc/en/main/software)
 
 ## Deployment
 
-**Step 1**. Set up Myo Armaband - See [Myo Suport](https://support.getmyo.com/hc/en-us) for setting up the Myo on your device.
+**Step 1**. Set up Myo Armaband - See [Myo Suport](https://support.getmyo.com/hc/en-us) for setting up the Myo on your device.       
 **Step 2**. Connect the Tank RP5 Chassis with an A male to B male cable. Connect the A male side of the cable to your laptop device and the B male side of the cable to the Arduino UNO Barrel Jack on the Tank RP5 Chassis.         
 **Step 3**. Run the MyoDuino.exe and select the correct port and press connect - See the MyoDuino pdf.         
 
