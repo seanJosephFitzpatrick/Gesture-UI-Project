@@ -1,11 +1,11 @@
-# Gesture UI
+# Gesture Based UI
 
 ![alt tag](https://github.com/seanJosephFitzpatrick/Gesture-UI-Project/blob/master/MYO.png)
 
 4th year Software Development project. The project uses gestures to control a robot tank. The Myo Armband is a device that sits over your forearm and reads the electrical activity produced by skeletal muscles using EMG (electromyographic) sensors. This is an Arduino based project that uses the MyoDuino library to communicate between the Myo Armband and the Arduino UNO, the Arduino UNO communicates with the Adafruit Motorshield to control the motors of the robot tank.
 
 Languages, Technologies and Implementation Architecture used for this project:
-C Language, Myo Armband, Arduino IDE, Myo-Arduino, Arduino Uno, Adafruit Motor Shield.
+* C Language, Myo Armband, Arduino IDE, Myo-Arduino, Arduino Uno, Adafruit Motor Shield.
 
 ## Getting Started
 
